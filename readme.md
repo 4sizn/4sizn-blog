@@ -9,7 +9,7 @@ This repo is what I use to power my personal blog / portfolio site [transitivebu
  작성 데이터는 Notion으로 작성합니다.
 
  ## Blog Site
- https://4sizn-blog.vercel.app/
+ https://4sizn-blog-lilac.vercel.app/
 
 > Starter Kit의 내용을 참고하려면 아래 이미지를 클릭하세요.
 
